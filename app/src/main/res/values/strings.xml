@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RestaurantMenuApp</string>
+    <string name="project_title">Restaurant Menu App</string>
+    <string name="student_name">Eren DUMAN - 20210305037</string>
+    <string name="go_to_menu">Go to Menu</string>
+    <string name="menu_title">Menu</string>
+    <string name="menu_detail_title">Menu Detail</string>
+    <string name="menu_icon">Menu Icon</string>
+    <string name="menu_image_desc">Menu Image</string>
+    <string name="price_format">$%.2f</string>
+    <string name="item_name_placeholder">Item Name</string>
+    <string name="remove">REMOVE</string>
+</resources>
